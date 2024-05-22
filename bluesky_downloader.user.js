@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Adds a download button to images posted to Bluesky, which immediately downloads the image in max quality and with a descriptive filename for easy sorting.
 // @author       coredumperror
+// @license      MIT
 // @match        https://bsky.app/*
 // @grant        none
 // ==/UserScript==
